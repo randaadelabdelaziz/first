@@ -2,6 +2,6 @@
 cloud course
 
 ## second
-*one
-*two
+* one
+* two
 
